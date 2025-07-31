@@ -1,6 +1,6 @@
 # 🧠 C++ - OMI: Preparación para la Olimpiada Mexicana de Informática 🇲🇽
 
-![OMI Banner](assets/omi_banner.png)
+![OMI Banner](assets/OMI.png)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-Preparation-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
