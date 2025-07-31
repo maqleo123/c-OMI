@@ -1,6 +1,9 @@
-# 🧠 c-OMI: Preparación para la Olimpiada Mexicana de Informática 🇲🇽
+# 🧠 C++ - OMI: Preparación para la Olimpiada Mexicana de Informática 🇲🇽
 
-![OMI Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_OMI.svg/800px-Logo_OMI.svg.png)
+![OMI Banner](assets/omi_banner.png)
+
+![C++](https://img.shields.io/badge/C%2B%2B-Preparation-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 > Este repositorio está dedicado a mi formación y práctica intensiva para enfrentar con éxito la **Olimpiada Nacional de Informática (OMI)** en México. Aquí se encuentran mis programas, simuladores, estructuras de datos, soluciones a problemas, y herramientas que me preparan como competidor de alto nivel. 💪
 
@@ -18,25 +21,26 @@
 
 ## 📁 Estructura del contenido
 
-📂 c-OMI/
+```bash
+📂 c++ - OMI/
 ├── 🧮 Simuladores/
-│ ├── MaquinaExpendedora.cpp
-│ ├── CajeroAutomatico.cpp
-│ └── TiendaVirtual.cpp
+│   ├── MaquinaExpendedora.cpp
+│   ├── CajeroAutomatico.cpp
+│   └── TiendaVirtual.cpp
 ├── 🧩 Algoritmos/
-│ ├── BusquedaBinaria.cpp
-│ ├── OrdenamientoQuickSort.cpp
-│ └── RecursividadFactorial.cpp
+│   ├── BusquedaBinaria.cpp
+│   ├── OrdenamientoQuickSort.cpp
+│   └── RecursividadFactorial.cpp
 ├── 📚 Estructuras/
-│ ├── Pilas.cpp
-│ ├── ListasEnlazadas.cpp
-│ └── ÁrbolesBinarios.cpp
+│   ├── Pilas.cpp
+│   ├── ListasEnlazadas.cpp
+│   └── ÁrbolesBinarios.cpp
 ├── 🧠 PracticasOMI/
-│ ├── ProblemasNivel1.cpp
-│ ├── ProblemasNivel2.cpp
-│ └── ProblemasNivel3.cpp
+│   ├── ProblemasNivel1.cpp
+│   ├── ProblemasNivel2.cpp
+│   └── ProblemasNivel3.cpp
 └── README.md
-
+```
 
 ---
 
